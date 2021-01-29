@@ -53,6 +53,14 @@ make deploy-prod
 
 - That's all!
 
+## Updating the repo
+- Go to folder and pull:
+
+```console
+cd \website-docker-nginx-certbot
+git pull
+```
+
 ## Author
 
 - [Lyeos Maouli](https://github.com/Malouli)
